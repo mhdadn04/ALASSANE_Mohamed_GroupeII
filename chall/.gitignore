@@ -1,0 +1,21 @@
+# Environnement virtuel (très lourd et spécifique à votre machine)
+.venv/
+venv/
+env/
+ENV/
+
+# Fichiers de cache compilés par Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers de configuration des éditeurs / IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Fichiers système temporaires
+.DS_Store
+Thumbs.db
